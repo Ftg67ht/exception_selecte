@@ -5,3 +5,5 @@
 li:not(:last-child):not(.active) {
   color: red;
 }
+
+p:not(.text, .hint, .description)
